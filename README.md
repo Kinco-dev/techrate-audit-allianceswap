@@ -5,7 +5,8 @@
 The purpose of the swap is to use the taxes of the alliance tokens to distribute rewards when buying tokens.
 
 For example, BABYAPE is taxed at 5% when purchased on PancakeSwap.
-If we go through the new swap (AllianceSwap), there will be 0% taxes (because the swap is excluded from the fees). And so the 5% will be used to buy rewards tokens (BTC or ETH)
+If we go through the new swap (AllianceSwap), there will be 0% taxes (because the swap is excluded from the fees). And so the 5% will be used to buy rewards tokens (BTC or ETH).
+**Example :**
 - With PancakeSwap you get 95% BABYAPE when you buy.
 - With AllianceSwap you get 95% BABYAPE 2% BTC and 3% ETH when you buy.
 
